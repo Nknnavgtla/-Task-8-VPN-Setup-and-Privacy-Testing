@@ -1,5 +1,3 @@
-# -Task-8-VPN-Setup-and-Privacy-Testing
-
 ## Objective
 Hands-on with a reputable free VPN, verify IP change, observe encryption, and document findings. (Per Task 8 brief)
  
